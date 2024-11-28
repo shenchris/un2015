@@ -1,2 +1,3 @@
 common-voice/*
 !common-voice/README.md
+!common-voice/train_features.csv

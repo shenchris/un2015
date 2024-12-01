@@ -1,4 +1,2 @@
 common-voice/versions/2/*
 !common-voice/README.md
-!common-voice/versions/2/train_features.csv
-!common-voice/versions/2/train_features_filter.csv

@@ -29,4 +29,5 @@ The project will train a **Logistic Regression** model using the extracted featu
 
 ## Usage
 Run the 'un2015.ipynb'
-Check the report 'final_report.pdf'
+
+Check result from report 'final_report.pdf'
